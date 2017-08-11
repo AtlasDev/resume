@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "summary": "I am a passionate self-taught web developer doing frontend as well as backend development. I am always trying out new technologies like Go and Preact."
+  },
+  "education": [
+    {
+      "institution": "HU University of Applied Sciences of Utrecht, Utrecht",
+      "studyType": "Bachelor Software & Information Engineering",
+      "startDate": "2016-09-01",
+      "courses": [
+        "Data Processing",
+        "Web Application Construction",
+        "Object Oriented Design & Construction",
+        "Analysis & User Interfacing",
+        "Modelling",
+        "Professional Development",
+        "Computer Systems and Networks"
+      ]
+    },
+    {
+      "institution": "Pieter Nieuwland College, Amsterdam",
+      "studyType": "Higher General Continued Education (HAVO)",
+      "startDate": "2014-09-01",
+      "endDate": "2016-07-01"
+    },
+    {
+      "institution": "Pieter Nieuwland College, Amsterdam",
+      "studyType": "Preparatory Scholarly Education (VWO)",
+      "startDate": "2011-09-01",
+      "endDate": "2014-07-01"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Remx",
+      "description": "Clipping service for Mixer",
+      "highlights": [
+        "Fast and simple UI",
+        "Fully offline accessible",
+        "Developer friendly",
+        "Scalable"
+      ],
+      "keywords": [
+        "Node.js",
+        "TypeScript",
+        "Vue",
+        "PWA",
+        "RethinkDB",
+        "RabbitMQ",
+        "Go",
+        "Varnish",
+        "AWS"
+      ],
+      "startDate": "2017-07-21",
+      "url": "https://github.com/AtlasDev/remx-frontend/",
+      "type": "Personal Project"
+    },
+    {
+      "name": "Ledensysteem",
+      "description": "Member system build for an local youth center.",
+      "highlights": ["TLS client authentication", "RFID tags"],
+      "keywords": [
+        "Angular 2+",
+        "Electron",
+        "TypeScript",
+        "RethinkDB",
+        "JSON-RPC"
+      ],
+      "startDate": "2017-03-01",
+      "entity": "Tumult Abcoude",
+      "roles": ["Backend Engineer"],
+      "type": "Profile Assignment"
+    },
+    {
+      "name": "BeepBot",
+      "description": "Chat bot for Mixer",
+      "highlights": ["Chat protection", "Commands", "Raffles", "Point system"],
+      "keywords": ["Node.js", "TypeScript", "RethinkDB", "RabbitMQ"],
+      "startDate": "2016-07-01",
+      "url": "https://beepbot.net/",
+      "entity": "ExoZone",
+      "roles": ["Backend Engineer"],
+      "type": "Profile Assignment"
+    },
+    {
+      "name": "MailJS",
+      "description": "Mail system writen in Node.js",
+      "highlights": [
+        "Email receiving over SMTP",
+        "RESTful api",
+        "Automatically TLS secured",
+        "Multiple domains and mail addresses",
+        "Account sharing",
+        "Integrated web ui",
+        "User management"
+      ],
+      "keywords": [
+        "Node.js",
+        "Angular 1.x",
+        "Redis",
+        "MongoDB",
+        "WebSocket",
+        "Grunt",
+        "SMTP"
+      ],
+      "startDate": "2015-05-01",
+      "endDate": "2016-05-01",
+      "url": "https://github.com/AtlasDev/MailJS/",
+      "entity": "Pieter Nieuwland College",
+      "type": "Profile Assignment"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Artificial Intelligence",
+      "keywords": ["CNN", "Facial Detection / Recognition"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary"
+    },
+    {
+      "language": "French",
+      "fluency": "Elementary"
+    }
+  ]
+}

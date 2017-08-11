@@ -1,0 +1,6 @@
+node_modules
+private.json
+build
+private.*
+*.pdf.html
+*.css

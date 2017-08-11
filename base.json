@@ -1,0 +1,58 @@
+{
+  "basics": {
+    "name": "Dany Sluijk",
+    "label": "Software Engineer",
+    "website": "https://atlasdev.nl",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "DanySluijk",
+        "url": "https://www.linkedin.com/in/DanySluijk/"
+      },
+      {
+        "network": "Github",
+        "username": "AtlasDev",
+        "url": "https://github.com/AtlasDev"
+      },
+      {
+        "network": "Twitter",
+        "username": "@AtlasDevNL",
+        "url": "https://twitter.com/AtlasDevNL"
+      }
+    ]
+  },
+  "work": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "JavaScript",
+        "Angular 2",
+        "WebPack",
+        "VueJS",
+        "Less / Sass",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "keywords": ["Node.js", "TypeScript", "Electron", "Go", "Java", "Python"]
+    },
+    {
+      "name": "System Management",
+      "keywords": ["GNU / Linux", "Docker", "Nginx", "Dovecot / Postfix"]
+    },
+    {
+      "name": "Database Development",
+      "keywords": [
+        "RethinkDB",
+        "MongoDB",
+        "Redis",
+        "RabbitMQ",
+        "PostgreSQL",
+        "OracleDB",
+        "Oracle SQL Developer"
+      ]
+    }
+  ]
+}

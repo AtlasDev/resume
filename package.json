@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "description": "Resume for Dany Sluijk",
+  "main": "base.json",
+  "scripts": {
+    "build": "npm run build-en && npm run build-en-private && npm run build-nl && npm run build-nl-private",
+    "build-en": "hackmyresume BUILD base.json english.json TO docs/index.html docs/en/index.html docs/en/index.pdf -t node_modules/jsonresume-theme-curzy",
+    "build-en-private": "hackmyresume BUILD base.json english.json private.json TO docs/en/private.html docs/en/private.pdf -t node_modules/jsonresume-theme-curzy",
+    "build-nl": "hackmyresume BUILD base.json dutch.json TO docs/nl/index.html docs/nl/index.pdf -t node_modules/jsonresume-theme-curzy",
+    "build-nl-private": "hackmyresume BUILD base.json dutch.json private.json TO docs/nl/private.html docs/nl/private.pdf -t node_modules/jsonresume-theme-curzy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AtlasDev/resume.git"
+  },
+  "author": "Dany Sluijk <dany@atlasdev.nl> (https://atlasdev.nl)",
+  "license": "MIT",
+  "dependencies": {
+    "jsonresume-theme-curzy": "^1.0.4"
+  }
+}
